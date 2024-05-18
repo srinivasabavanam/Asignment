@@ -1,0 +1,6 @@
+public class noSunday{
+public void noRest(){
+string s='no sunday and no rest';
+System.debug(s);
+}
+}
