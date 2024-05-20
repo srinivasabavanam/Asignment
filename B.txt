@@ -1,2 +1,6 @@
 print('first');
+<<<<<<< HEAD
 print('second');
+=======
+print('third');
+>>>>>>> branch1
